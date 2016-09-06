@@ -42,7 +42,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-     self.title = @"流量统计";
+     self.title = @"流量统计234";
     [self.view addSubview:self.chartLineView];
     
     /**
